@@ -1,1 +1,0 @@
-var json_taytayhighway_2 = {"type":"FeatureCollection","name":"taytayhighway_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n7984348526","osm_id":"7984348526","osm_type":"node","barrier":"gate","access":"private"},"geometry":{"type":"Point","coordinates":[119.5178792,10.8244411]}}]}
